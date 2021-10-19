@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Witcher
+X-KDE-PluginInfo-Author=abrahammurciano
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=abrahammurciano@gmail.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPL 3+
+X-KDE-PluginInfo-Name=Witcher
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=https://github.com/abrahammurciano/plasma-splash-witcher
+X-KDE-ServiceTypes=Plasma/LookAndFeel
